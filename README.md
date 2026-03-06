@@ -5,7 +5,7 @@
 
 This repository serves as a **Proof of Work (PoW)** and asynchronous technical trial demonstrating advanced Quality Assurance and Performance Engineering methodologies. 
 
-It contains a highly optimized `k6` load testing suite specifically designed to aggressively stress test and validate [WardK8s](https://github.com/AxellGS/WardK8s), a Kubernetes Security Policy Controller.
+It contains a highly optimized `k6` load testing suite specifically designed to aggressively stress test and validate [WardK8s](https://github.com/AxellGS/WardK8s), a lightweight, Go-native> **Target:** `wardk8s-controller` (Lightweight Go-native Admission Webhook)
 
 ## Objective
 

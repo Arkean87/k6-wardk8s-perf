@@ -1,6 +1,6 @@
 # WardK8s Webhook Performance Report
 
-> **Target:** `wardk8s-controller` ValidatingAdmissionWebhook (Go 1.22, controller-runtime)
+> **Target:** `wardk8s-controller` (Lightweight Go-native Admission Webhook)
 > **Baseline Footprint:** 8Mi RAM, 2m CPU.
 > **Testing Framework:** [k6 by Grafana](https://k6.io/)
 
